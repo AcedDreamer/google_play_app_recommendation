@@ -4,4 +4,4 @@ The aim of this project is to find mobile app categories that are likely to be m
 
 The data used for this project contains 10841 rows and 13 columns and can be assessed [here](https://www.kaggle.com/lava18/google-play-store-apps) on kaggle.
 
-To start reading click [here](https://github.com/denojike/google_play_app_recommendation/blob/master/app_recommendation.ipynb)
+Click [here](https://github.com/denojike/google_play_app_recommendation/blob/master/app_recommendation.ipynb) to open this project.
